@@ -1,6 +1,6 @@
 ## FYP Diary
 
-Student: Kayiu Chen
+Student: Kaiyu Chen
 
 Supervisor: Diarmuid
 
