@@ -1,6 +1,7 @@
-## FYP diary
+## FYP Diary
 
 Student: Kayiu Chen
+
 Supervisor: Diarmuid
 
 ### Fri, Sept 23rd
