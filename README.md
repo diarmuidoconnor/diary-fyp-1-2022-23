@@ -56,3 +56,8 @@ Kaiyu would try to build a skeleton backend for posting reviews from the Movie A
 
 Plan - 
 + Agreed to redouble the effort to produce the skeleton backend for the Movies App in time for the next meeting.
+
+### Tue. Nov 15th  (Slack conversation)
++ Kaiyu informed me he can still not allocate time to the FYP due to other modules' assignments - Web App Dev 2 and Agile S/w Practice.
++ We agreed that a face-to-face meeting would not be beneficial this week, but he will update me via Slack if he progresses with the prototype before our next meeting (next week).
+
