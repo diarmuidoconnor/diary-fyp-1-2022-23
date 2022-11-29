@@ -61,3 +61,5 @@ Plan -
 + Kaiyu informed me he can still not allocate time to the FYP due to other modules' assignments - Web App Dev 2 and Agile S/w Practice.
 + We agreed that a face-to-face meeting would not be beneficial this week, but he will update me via Slack if he progresses with the prototype before our next meeting (next week).
 
+### Tue. Nov 22nd.
++ There was no meeting this week despite two attempts to identify a suitable time slot, as Kaiyu had to cancel both.
