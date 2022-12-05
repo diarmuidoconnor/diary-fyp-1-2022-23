@@ -5,7 +5,6 @@ Student: Kaiyu Chen
 Supervisor: Diarmuid
 
 ### Fri, Sept 23rd
-
 + FYP supervisor allocation published on Moodle.
 
 ### Fri, Sept 30th
@@ -63,3 +62,10 @@ Plan -
 
 ### Tue. Nov 22nd.
 + There was no meeting this week despite two attempts to identify a suitable time slot, as Kaiyu had to cancel both.
+
+### Tue. Nov 29nd. (Meeting)
++ We had a detailed discussion on the semester one FYP report based on a proposed table of content I sent to him the previous day.
++ Briefly discussed the possible need to severely scale back the project scope due to the lack of progress on prototyping.
++ It may be that no prototype will be ready for the demonstration in early January. It depends on how much progress Kaiyu makes between now and then. 
++ I explained the architectural difference between serverless (Amplify) and serverful (Heroku), the latter being the approach used in the recent labs in the Agile module.
+
