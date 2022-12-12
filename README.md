@@ -69,3 +69,10 @@ Plan -
 + It may be that no prototype will be ready for the demonstration in early January. It depends on how much progress Kaiyu makes between now and then. 
 + I explained the architectural difference between serverless (Amplify) and serverful (Heroku), the latter being the approach used in the recent labs in the Agile module.
 
+### Thu., Dec 8th (Meeting)
+
++ We discussed the first draft of a subset of the semester one report. The Application Functionality section has a lot of detail but needs some restructuring.
++ The real-time status-updating feature 
+associated with order procession will require web socket technology, which Kayiu must research.
++ The Inspiration section mentions NestJS, which was not part of any previous discussion. Kaiyu would prefer it rather than pursue the serverless and Amplify stack. I agreed to let him follow this path, with the obvious caveat that it may impact how much he can achieve due to time constraints.
++ We agreed on some more sections of the report that Kayiu must draft for nexy week, in particular, Architecture and Data Design.
