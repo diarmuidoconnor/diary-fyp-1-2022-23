@@ -76,3 +76,6 @@ Plan -
 associated with order procession will require web socket technology, which Kayiu must research.
 + The Inspiration section mentions NestJS, which was not part of any previous discussion. Kaiyu would prefer it rather than pursue the serverless and Amplify stack. I agreed to let him follow this path, with the obvious caveat that it may impact how much he can achieve due to time constraints.
 + We agreed on some more sections of the report that Kayiu must draft for nexy week, in particular, Architecture and Data Design.
+
+### Thu., Dec 14th (Slack)
++ Missed deadline for second draft of report due to exam; will submit it next week.
